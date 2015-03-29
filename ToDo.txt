@@ -1,0 +1,3 @@
+-Pull Alex's heatmap
+-Change file path in index.html 
+-Work on Button calling a py file. 
